@@ -1,4 +1,5 @@
 ﻿#include<iostream>
+#include<vector>
 using namespace std;
 
 int LinearSearch(int* array, int size, int key)
@@ -15,8 +16,8 @@ int LinearSearch(int* array, int size, int key)
 
 int main()
 {
-	//to add the custom size array 
-	const int size = 100;			
+	//custom size array commented
+	const int size = 100;	//int size;	
 	cout << "\nEnter the size of the Array (temp. it's disabled): ";
 	//cin >> size;
 	int array[size];
