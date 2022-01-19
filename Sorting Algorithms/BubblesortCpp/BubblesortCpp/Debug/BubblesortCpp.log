@@ -1,0 +1,5 @@
+﻿  BubblesortCpp.cpp
+C:\Users\reand\OneDrive\Pulpit\BubblesortCpp\BubblesortCpp\BubblesortCpp.cpp(21,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\BubblesortCpp\BubblesortCpp\BubblesortCpp.cpp(40,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\BubblesortCpp\BubblesortCpp\BubblesortCpp.cpp(55,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  BubblesortCpp.vcxproj -> C:\Users\reand\OneDrive\Pulpit\BubblesortCpp\Debug\BubblesortCpp.exe
