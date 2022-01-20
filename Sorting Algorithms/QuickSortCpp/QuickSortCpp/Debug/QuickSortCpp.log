@@ -1,0 +1,4 @@
+﻿  QuickSortCpp.cpp
+C:\Users\reand\OneDrive\Pulpit\QuickSortCpp\QuickSortCpp\QuickSortCpp.cpp(40,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\QuickSortCpp\QuickSortCpp\QuickSortCpp.cpp(48,9): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+  QuickSortCpp.vcxproj -> C:\Users\reand\OneDrive\Pulpit\QuickSortCpp\Debug\QuickSortCpp.exe
