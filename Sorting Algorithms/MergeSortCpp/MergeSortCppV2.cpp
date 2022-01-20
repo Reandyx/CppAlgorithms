@@ -1,3 +1,6 @@
+/*
+a merge sort algorithm without output implemetation so in fact it's to do in the future
+*/
 #include <iostream>
 #include <vector>
 #include <queue>
