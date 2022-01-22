@@ -11,7 +11,6 @@ using std::vector;
 
 void SelectActivities(vector<int> s, vector<int> f)
 {
-    // Vector to store results.
     vector<pair<int, int>> ans;
 
     // Minimum Priority Queue to sort activities in ascending order of finishing time (f[i]).
@@ -50,7 +49,6 @@ void SelectActivities(vector<int> s, vector<int> f)
     }
 }
 
-// Driver program
 int main()
 {
     vector<int> s = {1, 3, 0, 5, 8, 5};
