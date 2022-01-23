@@ -41,7 +41,7 @@ void printJobScheduling(Job arr[], int n)
 		if (slot[i])
 			cout << arr[result[i]].id << " ";
 
-	delete[] result;
+	delete[] result, slot;
 }
 
 int main()
