@@ -29,7 +29,7 @@ void shortestPath(vector<pair<int, int>> adj[], int V, int src)
 		int u = pq.top().second;
 		pq.pop();
 
-		for (auto x : adj[u])
+		for (auto& x : adj[u])
 		{
 			int v = x.first;
 			int weight = x.second;
