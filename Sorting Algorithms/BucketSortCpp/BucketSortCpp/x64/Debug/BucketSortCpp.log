@@ -1,0 +1,11 @@
+﻿  BucketSortCpp.cpp
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(8,18): error C2131: wyrażenie nie zostało obliczone do stałej
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(8,18): message : przyczyną niepowodzenia był odczyt zmiennej poza jej okresem istnienia
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(8,18): message : zobacz użycie elementu „n”
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(12,10): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(17,3): error C2672: „std::sort”: nie znaleziono zgodnej przeciążonej funkcji
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(17,32): error C2780: "void std::sort(const _RanIt,const _RanIt)": oczekuje się 2 argumentów - dostarczono 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\algorithm(7298): message : zobacz deklarację „std::sort”
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(17,32): error C2780: "void std::sort(const _RanIt,const _RanIt,_Pr)": oczekuje się 3 argumentów - dostarczono 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\algorithm(7290): message : zobacz deklarację „std::sort”
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\BucketSortCpp\BucketSortCpp\BucketSortCpp.cpp(27,59): warning C4305: "inicjowanie": obcięcie z "double" do "float"
