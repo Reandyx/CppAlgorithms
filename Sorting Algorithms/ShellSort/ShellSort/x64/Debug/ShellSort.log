@@ -1,3 +1,0 @@
-﻿  ShellSort.cpp
-C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\ShellSort\ShellSort\ShellSort.cpp(30,36): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
-  ShellSort.vcxproj -> C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\CppAlgorithms\SortingAlgorithms\ShellSort\x64\Debug\ShellSort.exe
