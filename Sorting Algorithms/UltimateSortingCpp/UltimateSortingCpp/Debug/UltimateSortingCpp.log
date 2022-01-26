@@ -1,0 +1,34 @@
+﻿  UltimateSortingCpp.cpp
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(227,48): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(235,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(237,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(195,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(263): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void TSort::selection_sort<int>(T *,const size_t)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(158,19): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(277): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void TSort::shell_sort<int>(T *,const size_t)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(173,14): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(31,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(93): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void TSort::merge_split<T>(T *,size_t,size_t,size_t)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(248): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void TSort::merge_sort<int>(T *,size_t,size_t)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(36,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(46,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(46,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(63,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\UltimateSortingCpp\UltimateSortingCpp.cpp(69,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  UltimateSortingCpp.vcxproj -> C:\Users\reand\OneDrive\Pulpit\UltimateSortingCpp\Debug\UltimateSortingCpp.exe
