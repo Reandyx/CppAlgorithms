@@ -100,3 +100,5 @@ This problem in which we can break an item is also called the fractional knapsac
         5 Shell Sort
         
  Made, Developed and Completed by ©Reandyx 
+
+Note: In the future I will add the visualitzation of sorting algorithms in OpenGl
